@@ -1,1 +1,4 @@
 build/
+
+#we ignore the lib from the book can be found on https://github.com/bradfa/tlpi-dist/
+tlpi-dist-master
